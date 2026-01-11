@@ -1,15 +1,3 @@
-Below is a **clean, production-ready `README.md`** you can copy-paste directly into your project.
-
-It is written assuming:
-
-* PHP CLI execution
-* MySQL → InfluxDB migration
-* Cron-based execution on Ubuntu
-* Your current folder structure and `InfluxRun.php`
-
----
-
-```md
 # pfSense Syslog Migration Tool (MySQL → InfluxDB)
 
 This project migrates parsed **pfSense syslog data** stored in **MySQL** into **InfluxDB** for analytics, dashboards, and long-term metrics storage.
