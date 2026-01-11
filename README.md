@@ -1,4 +1,4 @@
-# pfSense Syslog Migration Tool (MySQL → InfluxDB)
+# pfSense Syslog Migration Tool (InfluxDB → MySQL)
 
 This project migrates parsed **pfSense syslog data** stored in **MySQL** into **InfluxDB** for analytics, dashboards, and long-term metrics storage.
 
